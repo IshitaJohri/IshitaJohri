@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with 'Statistics for data analysis'
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am also pursuing my Bsc. in Data Science and Programming from IIT Madras
-- 🤙 You can contact me using: [![Twitter Badge](https://img.shields.io/badge/-IshitaJohri-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/IshitaJohri_20/)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/-ishitajohri.ij@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ishitajohri.ij@gmail.com)
+- 🤙 You can contact me using: [![Twitter Badge](https://img.shields.io/badge/-IshitaJohri-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/IshitaJohri_20/)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/-ishitajohri.ij@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ishitajohri.ij@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-IshitaJohri-blue?style=flat&logo=Twitter&logoColor=white&link=www.linkedin.com/in/ishita-johri-652511214)](www.linkedin.com/in/ishita-johri-652511214)
 - 💻 I work using:
 ![Windows](https://img.shields.io/badge/OS:-Windows-black?style=flat&logo=Windows)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
