@@ -15,10 +15,10 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=IshitaJohri&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaJohri&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=IshitaJohri&&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshitaJohri&theme=dark&show_icons=true)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=IshitaJohri.IshitaJohri)
 
 <!--
 **IshitaJohri/IshitaJohri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
