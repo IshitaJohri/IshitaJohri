@@ -9,7 +9,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am also pursuing my Bsc. in Data Science and Programming from IIT Madras
 
-![Windows](https://img.shields.io/badge/OS-Windows-black?style=flat&logo=Windows)
+![Windows](https://img.shields.io/badge/OS:-Windows-black?style=flat&logo=Windows)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
