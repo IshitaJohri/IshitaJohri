@@ -1,3 +1,6 @@
+[![Header](https://github.com/IshitaJohri/IshitaJohri/master/28aa2e2e8a04aace5ccf0e97d9220ab2.jpg
+"Header")](https://github.com/IshitaJohri/IshitaJohri/blob/main/28aa2e2e8a04aace5ccf0e97d9220ab2.jpg)
+
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Git
 - 👯 I’m looking to collaborate on Java, Python
