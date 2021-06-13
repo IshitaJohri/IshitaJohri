@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/IshitaJohri/IshitaJohri/master/Header02.jpg
-"Header")](https://github.com/IshitaJohri/IshitaJohri/blob/main/Header02.jpg)
+[![Header](https://raw.githubusercontent.com/IshitaJohri/IshitaJohri/master/Header03.jpg
+"Header")](https://github.com/IshitaJohri/IshitaJohri/blob/main/Header03.jpg)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Python, Git
