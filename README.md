@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/IshitaJohri/IshitaJohri/master/Header03.jpg
 "Header")](https://github.com/IshitaJohri/IshitaJohri/blob/main/Header03.jpg)
 
-# Hey There! <img src="https://raw.githubusercontent.com/Ishitajohri/IshitaJohri/master/wave.gif" width="25px">
+# Hey There! <img src="https://raw.githubusercontent.com/Ishitajohri/IshitaJohri/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning Python, Git
 - 👯 I’m looking to collaborate on Java, Python 
