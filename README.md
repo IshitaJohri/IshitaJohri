@@ -19,7 +19,8 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML/CSS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)(https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 ## GITHUB STATS:
 ![](https://github-readme-stats.vercel.app/api?username=IshitaJohri&&theme=dark&count_private=true&show_icons=true&include_all_commits=true)
