@@ -16,8 +16,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=green)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java&logoColor=orange)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=Java&logoColor=orange)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
