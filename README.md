@@ -8,7 +8,7 @@
 <!-- - 🤔 I’m looking for help with  -->
 - 😄 Pronouns: She/her
 - Check out my Portfolio website! [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ishitajohri-portfolio-main-mp6amu.streamlitapp.com/)
-- 🤙 You can contact me using: [![Twitter Badge](	https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitajohri.ij@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ishitajohri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishitajohri/)](https://www.linkedin.com/in/ishitajohri/)
+- 🤙 You can contact me using: [![Twitter Badge](	https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitajohri.ij@gmail.com) [![Linkedin Badge](	https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ishitajohri/)
 - 💻 I work using:
 ### OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
