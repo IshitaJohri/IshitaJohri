@@ -3,11 +3,12 @@
 
 # Hey There! <img src="https://raw.githubusercontent.com/Ishitajohri/IshitaJohri/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning Python, Git
-- 👯 I’m looking to collaborate on Java, Python 
-- 🤔 I’m looking for help with 'Statistics for data analysis'
+- 🌱 I’m currently learning Software testing and Dynamic Programming
+- 👯 I’m looking to collaborate in Java, Python projects
+<!-- - 🤔 I’m looking for help with  -->
 - 😄 Pronouns: She/her
-- 🤙 You can contact me using: [![Twitter Badge](https://img.shields.io/badge/-IshitaJohri-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/IshitaJohri_20/)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/-ishitajohri.ij@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:ishitajohri.ij@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ishitajohri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishitajohri/)](https://www.linkedin.com/in/ishitajohri/)
+- Check out my Portfolio website! [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ishitajohri-portfolio-main-mp6amu.streamlitapp.com/)
+- 🤙 You can contact me using: [![Twitter Badge](	https://img.shields.io/badge/Twitter-00AF0?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/IshitaJohri_20/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishitajohri.ij@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ishitajohri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishitajohri/)](https://www.linkedin.com/in/ishitajohri/)
 - 💻 I work using:
 ### OS:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
